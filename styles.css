@@ -1,0 +1,36 @@
+h1 {
+    color: blue;
+    font-size: 40px;
+    font-family: arial;
+    text-align: center;
+}
+
+p {
+    color: #cfda35;
+    font-size: 30px;
+    font-family: georgia;
+}
+
+h3 {
+    color: green;
+    font-size: 35px;
+    font-family: arial;
+}
+
+.myself {
+    border: 2px solid red;
+    opacity: 90%;
+    translate: 20%
+}
+
+.deerlogo2 {
+    border: 3px dotted yellow;
+    opacity: 100%;
+    translate: 50%
+}
+
+.deerlogo3 {
+    border: 3px dotted rgb(204,204,0);
+    opacity: 100%;
+    translate: 40%
+}
